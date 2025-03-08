@@ -1,0 +1,5 @@
+"C:/Users/tuant/Downloads/ESG/dictionary-based/8311_ESG_2023_EN.txt",
+"C:/Users/tuant/Downloads/ESG/dictionary-based/8311_ESG_2022_EN.txt",
+"C:/Users/tuant/Downloads/Annual-And-Integrated-5/dictionary-based/8078_Annual report_2023_EN.txt",
+"C:/Users/tuant/Downloads/Sustainability 3/dictionary-based/1733_Sustainability Savills PLC_2018_EN.txt"
+"C:/Users/tuant/Downloads/CSR/dictionary-based/387_CSR_2016_ENG.txt"
